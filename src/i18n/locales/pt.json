@@ -1,0 +1,126 @@
+{
+  "home": {
+    "title": "Humano ou IA?",
+    "subtitle": "Consegue notar a diferença?",
+    "level": "Nível {{level}}",
+    "coins": "{{count}} moedas",
+    "difficulty": "Dificuldade",
+    "playByCategory": "Jogar por categoria",
+    "leaderboard": "Ranking",
+    "settings": "Configurações",
+    "dailyStreak": "{{count}} dias seguidos 🔥"
+  },
+  "modes": {
+    "classic": { "title": "Clássico", "subtitle": "Até errar" },
+    "time_attack": { "title": "Contra o tempo", "subtitle": "60 segundos • máx. pontuação" },
+    "daily": { "title": "Desafio diário", "subtitle": "10 imagens • ranking global" },
+    "expert": { "title": "Especialista", "subtitle": "Imagens IA muito difíceis" },
+    "ai_trick": { "title": "Truque IA", "subtitle": "IA ultra convincente" }
+  },
+  "categories": {
+    "faces": "Rostos",
+    "food": "Comida",
+    "nature": "Natureza",
+    "architecture": "Arquitetura",
+    "animals": "Animais"
+  },
+  "game": {
+    "loading": "Carregando...",
+    "score": "Pontos",
+    "timer": "{{seconds}}s",
+    "imageUnavailable": "Imagem indisponível",
+    "videoComingSoon": "Modo vídeo em breve",
+    "real": "REAL",
+    "ai": "IA",
+    "skip": "Pular",
+    "fiftyFifty": "50/50"
+  },
+  "difficulty": {
+    "easy": "Fácil",
+    "medium": "Médio",
+    "hard": "Difícil"
+  },
+  "result": {
+    "correct": "✓ Correto",
+    "wrong": "✗ Errado",
+    "soClose": "Quase! Você tinha uma sequência de {{count}} 🔥",
+    "itWas": "Era {{answer}}",
+    "streakBonus": "+{{count}} bônus de sequência!",
+    "inARow": "{{count}} seguidas! Continue!",
+    "why": "Por quê?",
+    "milestone5": "🔥 5 SEQUÊNCIAS! Bom começo!",
+    "milestone10": "🔥 10 SEQUÊNCIAS! Incrível!",
+    "milestone20": "🔥 20 SEQUÊNCIAS! Imparável!",
+    "milestone25": "🔥 25 SEQUÊNCIAS! Lendário!",
+    "viewResults": "Ver resultados",
+    "next": "Próximo"
+  },
+  "gameOver": {
+    "title": "Fim de jogo",
+    "dailyComplete": "Desafio diário completo!",
+    "subtitlePoints": "pontos",
+    "subtitleCorrect": "{{score}}/10 corretas",
+    "bestStreak": "Melhor sequência: {{count}} 🔥",
+    "newRecord": "Novo recorde! 🏆",
+    "beatBest": "Recorde: {{best}} – mais {{diff}} para superar!",
+    "hookOneMore": "Mais uma partida?",
+    "hookBeatBest": "Mais uma? Você pode bater seu recorde.",
+    "challengeFriends": "Desafie amigos",
+    "shareScore": "Compartilhar pontuação",
+    "playAgain": "Jogar de novo",
+    "home": "Início"
+  },
+  "leaderboard": {
+    "title": "Ranking",
+    "daily": "Hoje",
+    "weekly": "Esta semana",
+    "all_time": "Todos os tempos",
+    "empty": "Ainda não há pontuações. Seja o primeiro!",
+    "back": "← Voltar",
+    "anonymous": "Anônimo"
+  },
+  "settings": {
+    "title": "Configurações",
+    "back": "Voltar",
+    "sectionAudio": "Áudio e feedback",
+    "sectionLanguage": "Idioma",
+    "sectionAbout": "Sobre",
+    "sound": "Efeitos sonoros",
+    "soundDesc": "Sons do jogo",
+    "haptics": "Vibração",
+    "hapticsDesc": "Vibrar ao toque",
+    "language": "Idioma",
+    "languageDesc": "Idioma do app",
+    "version": "Humano ou IA? v1.0.0",
+    "achievements": "Conquistas",
+    "rateApp": "Avaliar app",
+    "rateAppUnavailable": "Não foi possível abrir a loja.",
+    "rateAppWeb": "Avalie-nos na App Store ou Play Store.",
+    "privacy": "Privacidade",
+    "privacyUnavailable": "Não foi possível abrir o link."
+  },
+  "languages": {
+    "en": "English",
+    "tr": "Türkçe",
+    "es": "Español",
+    "pt": "Português",
+    "de": "Deutsch",
+    "fr": "Français",
+    "ru": "Русский",
+    "id": "Bahasa Indonesia",
+    "ja": "日本語",
+    "ko": "한국어",
+    "hi": "हिन्दी",
+    "ar": "العربية"
+  },
+  "common": {
+    "loading": "Carregando...",
+    "shareTitle": "Humano ou IA?",
+    "copied": "Copiado!",
+    "copiedMessage": "Pontuação copiada para a área de transferência.",
+    "errorTitle": "Algo deu errado"
+  },
+  "share": {
+    "message": "Fiz {{score}} pontos em HUMANO OU IA. Consegue me vencer?"
+  }
+}

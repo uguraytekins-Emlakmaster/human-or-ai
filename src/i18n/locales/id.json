@@ -1,0 +1,126 @@
+{
+  "home": {
+    "title": "Manusia atau AI?",
+    "subtitle": "Bisa bedakan?",
+    "level": "Level {{level}}",
+    "coins": "{{count}} koin",
+    "difficulty": "Tingkat kesulitan",
+    "playByCategory": "Main menurut kategori",
+    "leaderboard": "Peringkat",
+    "settings": "Pengaturan",
+    "dailyStreak": "{{count}} hari beruntun 🔥"
+  },
+  "modes": {
+    "classic": { "title": "Klasik", "subtitle": "Sampai salah" },
+    "time_attack": { "title": "Serangan Waktu", "subtitle": "60 detik • skor tertinggi" },
+    "daily": { "title": "Tantangan Harian", "subtitle": "10 gambar • peringkat global" },
+    "expert": { "title": "Ahli", "subtitle": "Gambar AI sangat sulit" },
+    "ai_trick": { "title": "Trik AI", "subtitle": "AI ultra meyakinkan" }
+  },
+  "categories": {
+    "faces": "Wajah",
+    "food": "Makanan",
+    "nature": "Alam",
+    "architecture": "Arsitektur",
+    "animals": "Hewan"
+  },
+  "game": {
+    "loading": "Memuat...",
+    "score": "Skor",
+    "timer": "{{seconds}}d",
+    "imageUnavailable": "Gambar tidak tersedia",
+    "videoComingSoon": "Mode video segera hadir",
+    "real": "ASLI",
+    "ai": "AI",
+    "skip": "Lewati",
+    "fiftyFifty": "50/50"
+  },
+  "difficulty": {
+    "easy": "Mudah",
+    "medium": "Sedang",
+    "hard": "Sulit"
+  },
+  "result": {
+    "correct": "✓ Benar",
+    "wrong": "✗ Salah",
+    "soClose": "Nyaris! Kamu dapat seri {{count}} 🔥",
+    "itWas": "Jawabannya {{answer}}",
+    "streakBonus": "+{{count}} bonus seri!",
+    "inARow": "{{count}} berturut-turut! Lanjutkan!",
+    "why": "Mengapa?",
+    "milestone5": "🔥 5 SERI! Awal bagus!",
+    "milestone10": "🔥 10 SERI! Luar biasa!",
+    "milestone20": "🔥 20 SERI! Tak terbendung!",
+    "milestone25": "🔥 25 SERI! Legendaris!",
+    "viewResults": "Lihat hasil",
+    "next": "Lanjut"
+  },
+  "gameOver": {
+    "title": "Game over",
+    "dailyComplete": "Tantangan harian selesai!",
+    "subtitlePoints": "poin",
+    "subtitleCorrect": "{{score}}/10 benar",
+    "bestStreak": "Seri terbaik: {{count}} 🔥",
+    "newRecord": "Rekor baru! 🏆",
+    "beatBest": "Rekor: {{best}} – {{diff}} lagi untuk mengalahkan!",
+    "hookOneMore": "Satu ronde lagi?",
+    "hookBeatBest": "Satu lagi? Kamu bisa kalahkan rekormu.",
+    "challengeFriends": "Tantang teman",
+    "shareScore": "Bagikan skor",
+    "playAgain": "Main lagi",
+    "home": "Beranda"
+  },
+  "leaderboard": {
+    "title": "Peringkat",
+    "daily": "Hari ini",
+    "weekly": "Minggu ini",
+    "all_time": "Sepanjang masa",
+    "empty": "Belum ada skor. Jadilah yang pertama!",
+    "back": "← Kembali",
+    "anonymous": "Anonim"
+  },
+  "settings": {
+    "title": "Pengaturan",
+    "back": "Kembali",
+    "sectionAudio": "Audio & umpan balik",
+    "sectionLanguage": "Bahasa",
+    "sectionAbout": "Tentang",
+    "sound": "Efek suara",
+    "soundDesc": "Suara game",
+    "haptics": "Getaran",
+    "hapticsDesc": "Getar saat disentuh",
+    "language": "Bahasa",
+    "languageDesc": "Bahasa aplikasi",
+    "version": "Manusia atau AI? v1.0.0",
+    "achievements": "Pencapaian",
+    "rateApp": "Beri nilai",
+    "rateAppUnavailable": "Toko tidak dapat dibuka.",
+    "rateAppWeb": "Beri nilai di App Store atau Play Store.",
+    "privacy": "Privasi",
+    "privacyUnavailable": "Tautan tidak dapat dibuka."
+  },
+  "languages": {
+    "en": "English",
+    "tr": "Türkçe",
+    "es": "Español",
+    "pt": "Português",
+    "de": "Deutsch",
+    "fr": "Français",
+    "ru": "Русский",
+    "id": "Bahasa Indonesia",
+    "ja": "日本語",
+    "ko": "한국어",
+    "hi": "हिन्दी",
+    "ar": "العربية"
+  },
+  "common": {
+    "loading": "Memuat...",
+    "shareTitle": "Manusia atau AI?",
+    "copied": "Disalin!",
+    "copiedMessage": "Skor disalin ke clipboard.",
+    "errorTitle": "Terjadi kesalahan"
+  },
+  "share": {
+    "message": "Aku dapat {{score}} poin di MANUSIA ATAU AI. Bisa mengalahkanku?"
+  }
+}

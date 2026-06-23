@@ -1,0 +1,126 @@
+{
+  "home": {
+    "title": "Человек или ИИ?",
+    "subtitle": "Сможешь отличить?",
+    "level": "Уровень {{level}}",
+    "coins": "{{count}} монет",
+    "difficulty": "Сложность",
+    "playByCategory": "Играть по категориям",
+    "leaderboard": "Таблица лидеров",
+    "settings": "Настройки",
+    "dailyStreak": "{{count}} дней подряд 🔥"
+  },
+  "modes": {
+    "classic": { "title": "Классика", "subtitle": "Пока не ошибёшься" },
+    "time_attack": { "title": "На время", "subtitle": "60 секунд • макс. счёт" },
+    "daily": { "title": "Ежедневный вызов", "subtitle": "10 изображений • мировой рейтинг" },
+    "expert": { "title": "Эксперт", "subtitle": "Очень сложные ИИ-изображения" },
+    "ai_trick": { "title": "ИИ-ловушка", "subtitle": "Сверхправдоподобный ИИ" }
+  },
+  "categories": {
+    "faces": "Лица",
+    "food": "Еда",
+    "nature": "Природа",
+    "architecture": "Архитектура",
+    "animals": "Животные"
+  },
+  "game": {
+    "loading": "Загрузка...",
+    "score": "Счёт",
+    "timer": "{{seconds}}с",
+    "imageUnavailable": "Изображение недоступно",
+    "videoComingSoon": "Видеорежим скоро",
+    "real": "РЕАЛ",
+    "ai": "ИИ",
+    "skip": "Пропустить",
+    "fiftyFifty": "50/50"
+  },
+  "difficulty": {
+    "easy": "Лёгкий",
+    "medium": "Средний",
+    "hard": "Сложный"
+  },
+  "result": {
+    "correct": "✓ Верно",
+    "wrong": "✗ Неверно",
+    "soClose": "Почти! У тебя была серия {{count}} 🔥",
+    "itWas": "Это было {{answer}}",
+    "streakBonus": "+{{count}} бонус за серию!",
+    "inARow": "{{count}} подряд! Продолжай!",
+    "why": "Почему?",
+    "milestone5": "🔥 5 СЕРИЯ! Отличное начало!",
+    "milestone10": "🔥 10 СЕРИЯ! Невероятно!",
+    "milestone20": "🔥 20 СЕРИЯ! Неудержимо!",
+    "milestone25": "🔥 25 СЕРИЯ! Легендарно!",
+    "viewResults": "Смотреть результаты",
+    "next": "Дальше"
+  },
+  "gameOver": {
+    "title": "Конец игры",
+    "dailyComplete": "Ежедневный вызов пройден!",
+    "subtitlePoints": "очков",
+    "subtitleCorrect": "{{score}}/10 верно",
+    "bestStreak": "Лучшая серия: {{count}} 🔥",
+    "newRecord": "Новый рекорд! 🏆",
+    "beatBest": "Рекорд: {{best}} – ещё {{diff}} чтобы побить!",
+    "hookOneMore": "Ещё раунд?",
+    "hookBeatBest": "Ещё один? Ты можешь побить свой рекорд.",
+    "challengeFriends": "Вызови друзей",
+    "shareScore": "Поделиться счётом",
+    "playAgain": "Играть снова",
+    "home": "Главная"
+  },
+  "leaderboard": {
+    "title": "Таблица лидеров",
+    "daily": "Сегодня",
+    "weekly": "На этой неделе",
+    "all_time": "За всё время",
+    "empty": "Пока нет результатов. Будь первым!",
+    "back": "← Назад",
+    "anonymous": "Аноним"
+  },
+  "settings": {
+    "title": "Настройки",
+    "back": "Назад",
+    "sectionAudio": "Звук и отклик",
+    "sectionLanguage": "Язык",
+    "sectionAbout": "О приложении",
+    "sound": "Звуковые эффекты",
+    "soundDesc": "Звуки игры",
+    "haptics": "Вибрация",
+    "hapticsDesc": "Вибрация при нажатии",
+    "language": "Язык",
+    "languageDesc": "Язык приложения",
+    "version": "Человек или ИИ? v1.0.0",
+    "achievements": "Достижения",
+    "rateApp": "Оценить",
+    "rateAppUnavailable": "Не удалось открыть магазин.",
+    "rateAppWeb": "Оцените нас в App Store или Play Store.",
+    "privacy": "Конфиденциальность",
+    "privacyUnavailable": "Не удалось открыть ссылку."
+  },
+  "languages": {
+    "en": "English",
+    "tr": "Türkçe",
+    "es": "Español",
+    "pt": "Português",
+    "de": "Deutsch",
+    "fr": "Français",
+    "ru": "Русский",
+    "id": "Bahasa Indonesia",
+    "ja": "日本語",
+    "ko": "한국어",
+    "hi": "हिन्दी",
+    "ar": "العربية"
+  },
+  "common": {
+    "loading": "Загрузка...",
+    "shareTitle": "Человек или ИИ?",
+    "copied": "Скопировано!",
+    "copiedMessage": "Счёт скопирован в буфер обмена.",
+    "errorTitle": "Что-то пошло не так"
+  },
+  "share": {
+    "message": "Я набрал {{score}} очков в ЧЕЛОВЕК ИЛИ ИИ. Сможешь побить?"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "Human or AI?",
+    "slug": "human-or-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "scheme": "humanorai",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0a0a0f"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.humanorai.game",
+      "infoPlist": {
+        "NSUserNotificationsUsageDescription": "Günlük seri hatırlatması göndermek için bildirim izni gerekir."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0a0a0f"
+      },
+      "package": "com.humanorai.game"
+    },
+    "plugins": [
+      "expo-asset",
+      "expo-localization",
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/icon.png",
+          "color": "#6366f1"
+        }
+      ]
+    ]
+  }
+}

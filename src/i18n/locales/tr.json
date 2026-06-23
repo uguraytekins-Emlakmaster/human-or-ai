@@ -1,0 +1,195 @@
+{
+  "home": {
+    "title": "İnsan mı AI mı?",
+    "subtitle": "Farkı söyleyebilir misin?",
+    "level": "Seviye {{level}}",
+    "coins": "{{count}} coin",
+    "difficulty": "Zorluk",
+    "playByCategory": "Kategoriye göre oyna",
+    "leaderboard": "Liderlik",
+    "settings": "Ayarlar",
+    "dailyStreak": "{{count}} gün seri 🔥",
+    "backToHome": "Ana sayfaya dön"
+  },
+  "dailyQuestion": {
+    "title": "Günün sorusu",
+    "cardSub": "Tek bir zorlu soru — sonucunu paylaş!",
+    "shareTitle": "İnsan mı AI mı?",
+    "shareMessage": "Günün sorusunun cevabı {{answer}}! Sence?",
+    "shareCta": "Paylaş",
+    "backToHome": "Ana sayfaya dön"
+  },
+  "modes": {
+    "classic": { "title": "Klasik", "subtitle": "Yanlış yapana kadar" },
+    "time_attack": { "title": "Zaman Yarışı", "subtitle": "60 saniye • en yüksek skor" },
+    "daily": { "title": "Günlük Meydan Okuma", "subtitle": "10 görsel • global sıralama" },
+    "expert": { "title": "Uzman", "subtitle": "Çok zor AI görselleri" },
+    "ai_trick": { "title": "AI Tuzak", "subtitle": "Aşırı inandırıcı AI" }
+  },
+  "categories": {
+    "faces": "Yüzler",
+    "food": "Yemek",
+    "nature": "Doğa",
+    "architecture": "Mimari",
+    "animals": "Hayvanlar"
+  },
+  "game": {
+    "loading": "Yükleniyor...",
+    "score": "Skor",
+    "timer": "{{seconds}}sn",
+    "imageUnavailable": "Görsel yüklenemedi",
+    "contentUnavailable": "Bu içerik yüklenemedi.",
+    "retry": "Tekrar dene",
+    "videoComingSoon": "Video modu yakında",
+    "real": "GERÇEK",
+    "ai": "YAPAY",
+    "skip": "Atla",
+    "fiftyFifty": "50/50"
+  },
+  "difficulty": {
+    "easy": "Kolay",
+    "medium": "Orta",
+    "hard": "Zor"
+  },
+  "result": {
+    "correct": "✓ Doğru",
+    "wrong": "✗ Yanlış",
+    "soClose": "Çok yakındın! {{count}} seri yapmıştın 🔥",
+    "itWas": "Cevap: {{answer}}",
+    "streakBonus": "+{{count}} seri bonusu!",
+    "inARow": "{{count}} doğru! Devam!",
+    "why": "Neden?",
+    "milestone5": "🔥 5 SERİ! Süper başlangıç!",
+    "milestone10": "🔥 10 SERİ! Muhteşem!",
+    "milestone20": "🔥 20 SERİ! Durdurulamaz!",
+    "milestone25": "🔥 25 SERİ! Efsane!",
+    "viewResults": "Sonuçlara git",
+    "next": "İleri"
+  },
+  "gameOver": {
+    "title": "Oyun Bitti",
+    "dailyComplete": "Günlük tamamlandı!",
+    "subtitlePoints": "puan",
+    "subtitleCorrect": "{{score}}/10 doğru",
+    "bestStreak": "En iyi seri: {{count}} 🔥",
+    "newRecord": "Yeni rekor! 🏆",
+    "beatBest": "Rekor: {{best}} – {{diff}} puan daha!",
+    "hookOneMore": "Bir el daha?",
+    "hookBeatBest": "Bir el daha? Rekorunu kırabilirsin.",
+    "challengeFriends": "Arkadaşlarına meydan oku",
+    "shareScore": "Skoru paylaş",
+    "watchAdForSkip": "Reklam izle → Sonraki oyunda +1 Atla",
+    "thanksBonusSkip": "✓ Sonraki oyunda ekstra Atla hakkın olacak!",
+    "playAgain": "Tekrar oyna",
+    "home": "Ana menü"
+  },
+  "leaderboard": {
+    "title": "Liderlik",
+    "daily": "Bugün",
+    "weekly": "Bu Hafta",
+    "all_time": "Tüm Zamanlar",
+    "empty": "Henüz skor yok. İlk sen ol!",
+    "back": "← Geri",
+    "anonymous": "Anonim"
+  },
+  "settings": {
+    "title": "Ayarlar",
+    "back": "Geri",
+    "sectionAudio": "Ses ve geri bildirim",
+    "sectionLanguage": "Dil",
+    "sectionAbout": "Hakkında",
+    "sound": "Ses efektleri",
+    "soundDesc": "Oyun sesleri ve geri bildirim",
+    "playSample": "Örnek oynat",
+    "streakReminder": "Seri hatırlatması",
+    "streakReminderDesc": "Günlük serimi korumak için bana bildir",
+    "notificationsPermissionTitle": "Bildirimler",
+    "notificationsPermissionMessage": "Seri hatırlatması almak için bildirimlere izin verin.",
+    "haptics": "Titreşim",
+    "hapticsDesc": "Dokunmada titreşim",
+    "language": "Dil",
+    "languageDesc": "Uygulama dili",
+    "version": "İnsan mı AI mı? v1.0.0",
+    "achievements": "Başarılar",
+    "rateApp": "Uygulamayı değerlendir",
+    "rateAppUnavailable": "Mağaza açılamadı.",
+    "rateAppWeb": "Bizi App Store veya Play Store üzerinden değerlendirin.",
+    "privacy": "Gizlilik politikası",
+    "privacyUnavailable": "Bağlantı açılamadı.",
+    "removeAds": "Reklamları kaldır",
+    "removeAdsThankYou": "Teşekkürler! Ara reklamlar artık gösterilmeyecek.",
+    "supportDevelopment": "Geliştirmeyi destekle"
+  },
+  "privacy": {
+    "updated": "Son güncelleme: 1.0.0",
+    "collected": "Toplanan veriler",
+    "collectedBody": "Skorlar, rekorlar, dil, seri takvimi, ses/titreşim ve bildirim tercihleri yalnızca cihazınızda (AsyncStorage) saklanır. Sunucularımıza gönderilmez. Hesap veya e-posta gerekmez. İsteğe bağlı yerel bildirimler günlük seri hatırlatması içindir.",
+    "internet": "İnternet ve içerik",
+    "internetBody": "Oyun görselleri, ses ve videolar internetten yüklenir. Ayarlardaki ses önizlemesi harici bir URL'den çalınabilir.",
+    "thirdParty": "Üçüncü taraflar",
+    "thirdPartyBody": "Expo altyapısı, mağazalar ve içerik CDN'leri kendi politikalarına göre teknik veri işleyebilir.",
+    "monetization": "Reklam ve satın alma",
+    "monetizationBody": "Reklam veya uygulama içi satın alma açıksa Google Play, App Store ve reklam ağı politikaları geçerlidir. İlk sürümlerde reklam/IAP kapalı olabilir.",
+    "contact": "İletişim",
+    "contactBody": "Gizlilik soruları için mağaza listesindeki geliştirici iletişim bilgisini veya proje deposunu kullanın."
+  },
+  "languages": {
+    "en": "English",
+    "tr": "Türkçe",
+    "es": "Español",
+    "pt": "Português",
+    "de": "Deutsch",
+    "fr": "Français",
+    "ru": "Русский",
+    "id": "Bahasa Indonesia",
+    "ja": "日本語",
+    "ko": "한국어",
+    "hi": "हिन्दी",
+    "ar": "العربية"
+  },
+  "achievements": {
+    "title": "Başarılar",
+    "first_win": { "name": "İlk Galibiyet", "desc": "1 doğru cevap ver" },
+    "streak_5": { "name": "Seri Başlangıç", "desc": "5 doğru üst üste" },
+    "streak_10": { "name": "Ateştesin", "desc": "10 doğru üst üste" },
+    "streak_20": { "name": "Durdurulamaz", "desc": "20 doğru üst üste" },
+    "score_10": { "name": "Keskin Göz", "desc": "Tek oyunda 10 puan" },
+    "score_50": { "name": "Uzman", "desc": "Tek oyunda 50 puan" },
+    "score_100": { "name": "Efsane", "desc": "Tek oyunda 100 puan" },
+    "daily_week": { "name": "Kararlı", "desc": "7 günlük meydan okumayı tamamla" },
+    "ai_expert": { "name": "AI Uzmanı", "desc": "Uzman modunda oyunu tamamla" }
+  },
+  "common": {
+    "loading": "Yükleniyor...",
+    "shareTitle": "İnsan mı AI mı?",
+    "copied": "Kopyalandı!",
+    "copiedMessage": "Skor panoya kopyalandı.",
+    "errorTitle": "Bir şeyler yanlış gitti"
+  },
+  "share": {
+    "message": "İNSAN MI AI MI? oyununda {{score}} puan yaptım. Sen geçebilir misin?"
+  },
+  "challenge": {
+    "title": "Arkadaşına meydan oku",
+    "cardSub": "Aynı 5 soru — linki paylaş!",
+    "loading": "Meydan okuma yükleniyor...",
+    "resultTitle": "Meydan okuma tamamlandı!",
+    "resultSub": "Arkadaşların aynı 5 soruyu görsün diye linki paylaş.",
+    "shareCta": "Meydan okumayı paylaş",
+    "shareMessage": "Bu İnsan mı AI mı? meydan okumasında {{score}}/{{total}} yaptım. Sen geçebilir misin? {{url}}",
+    "enterCode": "Kodun var mı?",
+    "enterCodePlaceholder": "Meydan okuma kodu veya linki yapıştır",
+    "go": "Oyna"
+  },
+  "calendar": {
+    "title": "Son 7 gün",
+    "today": "Bugün",
+    "yesterday": "Dün"
+  },
+  "videoTour": {
+    "title": "Video turu",
+    "cardSub": "2 kısa video — Gerçek mi AI mı?",
+    "resultTitle": "Video turu tamamlandı!",
+    "resultSub": "Videolar ana oyunda da yer alıyor."
+  }
+}

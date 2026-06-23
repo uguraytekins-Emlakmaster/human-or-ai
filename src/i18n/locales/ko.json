@@ -1,0 +1,126 @@
+{
+  "home": {
+    "title": "사람? AI?",
+    "subtitle": "구분할 수 있나요?",
+    "level": "레벨 {{level}}",
+    "coins": "{{count}} 코인",
+    "difficulty": "난이도",
+    "playByCategory": "카테고리별 플레이",
+    "leaderboard": "리더보드",
+    "settings": "설정",
+    "dailyStreak": "{{count}}일 연속 🔥"
+  },
+  "modes": {
+    "classic": { "title": "클래식", "subtitle": "틀릴 때까지" },
+    "time_attack": { "title": "타임 어택", "subtitle": "60초 • 최고 점수" },
+    "daily": { "title": "데일리 챌린지", "subtitle": "10장 • 글로벌 순위" },
+    "expert": { "title": "전문가", "subtitle": "매우 어려운 AI 이미지" },
+    "ai_trick": { "title": "AI 트릭", "subtitle": "초현실적 AI" }
+  },
+  "categories": {
+    "faces": "얼굴",
+    "food": "음식",
+    "nature": "자연",
+    "architecture": "건축",
+    "animals": "동물"
+  },
+  "game": {
+    "loading": "로딩 중...",
+    "score": "점수",
+    "timer": "{{seconds}}초",
+    "imageUnavailable": "이미지를 불러올 수 없습니다",
+    "videoComingSoon": "영상 모드 준비 중",
+    "real": "실제",
+    "ai": "AI",
+    "skip": "건너뛰기",
+    "fiftyFifty": "50/50"
+  },
+  "difficulty": {
+    "easy": "쉬움",
+    "medium": "보통",
+    "hard": "어려움"
+  },
+  "result": {
+    "correct": "✓ 정답",
+    "wrong": "✗ 오답",
+    "soClose": "아깝다! {{count}} 콤보였는데 🔥",
+    "itWas": "정답: {{answer}}",
+    "streakBonus": "+{{count}} 콤보 보너스!",
+    "inARow": "{{count}} 연속! 계속!",
+    "why": "왜?",
+    "milestone5": "🔥 5 콤보! 좋은 시작!",
+    "milestone10": "🔥 10 콤보! 대단해!",
+    "milestone20": "🔥 20 콤보! 멈출 수 없어!",
+    "milestone25": "🔥 25 콤보! 전설!",
+    "viewResults": "결과 보기",
+    "next": "다음"
+  },
+  "gameOver": {
+    "title": "게임 오버",
+    "dailyComplete": "데일리 클리어!",
+    "subtitlePoints": "점",
+    "subtitleCorrect": "{{score}}/10 정답",
+    "bestStreak": "최고 콤보: {{count}} 🔥",
+    "newRecord": "신기록! 🏆",
+    "beatBest": "기록: {{best}} – {{diff}}점 더 하면 갱신!",
+    "hookOneMore": "한 판 더?",
+    "hookBeatBest": "한 판 더? 네 기록을 넘을 수 있어.",
+    "challengeFriends": "친구에게 도전장",
+    "shareScore": "점수 공유",
+    "playAgain": "다시 하기",
+    "home": "홈"
+  },
+  "leaderboard": {
+    "title": "리더보드",
+    "daily": "오늘",
+    "weekly": "이번 주",
+    "all_time": "전체",
+    "empty": "아직 점수가 없어요. 1등이 되어 보세요!",
+    "back": "← 뒤로",
+    "anonymous": "익명"
+  },
+  "settings": {
+    "title": "설정",
+    "back": "뒤로",
+    "sectionAudio": "오디오 및 피드백",
+    "sectionLanguage": "언어",
+    "sectionAbout": "정보",
+    "sound": "효과음",
+    "soundDesc": "게임 소리",
+    "haptics": "진동",
+    "hapticsDesc": "탭 시 진동",
+    "language": "언어",
+    "languageDesc": "앱 언어",
+    "version": "사람? AI? v1.0.0",
+    "achievements": "업적",
+    "rateApp": "앱 평가",
+    "rateAppUnavailable": "스토어를 열 수 없습니다.",
+    "rateAppWeb": "App Store 또는 Play Store에서 평가해 주세요.",
+    "privacy": "개인정보",
+    "privacyUnavailable": "링크를 열 수 없습니다."
+  },
+  "languages": {
+    "en": "English",
+    "tr": "Türkçe",
+    "es": "Español",
+    "pt": "Português",
+    "de": "Deutsch",
+    "fr": "Français",
+    "ru": "Русский",
+    "id": "Bahasa Indonesia",
+    "ja": "日本語",
+    "ko": "한국어",
+    "hi": "हिन्दी",
+    "ar": "العربية"
+  },
+  "common": {
+    "loading": "로딩 중...",
+    "shareTitle": "사람? AI?",
+    "copied": "복사됨!",
+    "copiedMessage": "점수가 클립보드에 복사되었습니다.",
+    "errorTitle": "오류가 발생했습니다"
+  },
+  "share": {
+    "message": "사람? AI?에서 {{score}}점 달성! 너도 해볼래?"
+  }
+}

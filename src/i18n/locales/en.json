@@ -1,0 +1,195 @@
+{
+  "home": {
+    "title": "Human or AI?",
+    "subtitle": "Can you tell the difference?",
+    "level": "Level {{level}}",
+    "coins": "{{count}} coins",
+    "difficulty": "Difficulty",
+    "playByCategory": "Play by category",
+    "leaderboard": "Leaderboard",
+    "settings": "Settings",
+    "dailyStreak": "{{count}} day streak 🔥",
+    "backToHome": "Back to home"
+  },
+  "dailyQuestion": {
+    "title": "Question of the day",
+    "cardSub": "One tricky question — share your result!",
+    "shareTitle": "Human or AI?",
+    "shareMessage": "Today's question was {{answer}}! What do you think?",
+    "shareCta": "Share",
+    "backToHome": "Back to home"
+  },
+  "modes": {
+    "classic": { "title": "Classic", "subtitle": "Endless until you miss" },
+    "time_attack": { "title": "Time Attack", "subtitle": "60 seconds • max score" },
+    "daily": { "title": "Daily Challenge", "subtitle": "10 images • global rank" },
+    "expert": { "title": "Expert", "subtitle": "Extremely hard AI images" },
+    "ai_trick": { "title": "AI Trick", "subtitle": "Ultra-convincing AI only" }
+  },
+  "categories": {
+    "faces": "Faces",
+    "food": "Food",
+    "nature": "Nature",
+    "architecture": "Architecture",
+    "animals": "Animals"
+  },
+  "game": {
+    "loading": "Loading...",
+    "score": "Score",
+    "timer": "{{seconds}}s",
+    "imageUnavailable": "Image unavailable",
+    "contentUnavailable": "This content couldn't be loaded.",
+    "retry": "Retry",
+    "videoComingSoon": "Video mode coming soon",
+    "real": "REAL",
+    "ai": "AI",
+    "skip": "Skip",
+    "fiftyFifty": "50/50"
+  },
+  "difficulty": {
+    "easy": "Easy",
+    "medium": "Medium",
+    "hard": "Hard"
+  },
+  "result": {
+    "correct": "✓ Correct",
+    "wrong": "✗ Wrong",
+    "soClose": "So close! You had a {{count}} streak 🔥",
+    "itWas": "It was {{answer}}",
+    "streakBonus": "+{{count}} streak bonus!",
+    "inARow": "{{count}} in a row! Keep going!",
+    "why": "Why?",
+    "milestone5": "🔥 5 STREAK! Great start!",
+    "milestone10": "🔥 10 STREAK! Amazing!",
+    "milestone20": "🔥 20 STREAK! Unstoppable!",
+    "milestone25": "🔥 25 STREAK! Legendary!",
+    "viewResults": "View results",
+    "next": "Next"
+  },
+  "gameOver": {
+    "title": "Game Over",
+    "dailyComplete": "Daily complete!",
+    "subtitlePoints": "points",
+    "subtitleCorrect": "{{score}}/10 correct",
+    "bestStreak": "Best streak: {{count}} 🔥",
+    "newRecord": "New record! 🏆",
+    "beatBest": "Best: {{best}} – {{diff}} more to beat it!",
+    "hookOneMore": "One more round?",
+    "hookBeatBest": "One more round? You can beat your best.",
+    "challengeFriends": "Challenge friends",
+    "shareScore": "Share score",
+    "watchAdForSkip": "Watch ad → +1 Skip next game",
+    "thanksBonusSkip": "✓ Next game you'll have an extra Skip!",
+    "playAgain": "Play again",
+    "home": "Home"
+  },
+  "leaderboard": {
+    "title": "Leaderboard",
+    "daily": "Today",
+    "weekly": "This Week",
+    "all_time": "All Time",
+    "empty": "No scores yet. Be the first!",
+    "back": "← Back",
+    "anonymous": "Anonymous"
+  },
+  "settings": {
+    "title": "Settings",
+    "back": "Back",
+    "sectionAudio": "Audio & feedback",
+    "sectionLanguage": "Language",
+    "sectionAbout": "About",
+    "sound": "Sound effects",
+    "soundDesc": "Game sounds and feedback",
+    "playSample": "Play sample",
+    "streakReminder": "Streak reminder",
+    "streakReminderDesc": "Notify me to keep my daily streak",
+    "notificationsPermissionTitle": "Notifications",
+    "notificationsPermissionMessage": "Enable notifications to get a reminder to play and keep your streak.",
+    "haptics": "Haptic feedback",
+    "hapticsDesc": "Vibration on tap",
+    "language": "Language",
+    "languageDesc": "App language",
+    "version": "Human or AI? v1.0.0",
+    "achievements": "Achievements",
+    "rateApp": "Rate the app",
+    "rateAppUnavailable": "Could not open the store.",
+    "rateAppWeb": "Rate us from the App Store or Play Store.",
+    "privacy": "Privacy policy",
+    "privacyUnavailable": "Could not open the link.",
+    "removeAds": "Remove ads",
+    "removeAdsThankYou": "Thank you! You won't see interstitial ads.",
+    "supportDevelopment": "Support development"
+  },
+  "privacy": {
+    "updated": "Last updated: 1.0.0",
+    "collected": "Data we collect",
+    "collectedBody": "Scores, personal bests, language, streak calendar, sound/haptics and notification preferences are stored only on your device (AsyncStorage). We do not send this data to our servers. No account or email is required. Optional local notifications remind you to keep your daily streak.",
+    "internet": "Internet & content",
+    "internetBody": "Game images, audio and videos are loaded from the internet (e.g. placeholder image services, public sample videos). Sound preview in Settings may play from an external URL.",
+    "thirdParty": "Third parties",
+    "thirdPartyBody": "Expo infrastructure, app stores, and content CDNs may process technical data according to their own policies.",
+    "monetization": "Ads & purchases",
+    "monetizationBody": "If ads or in-app purchases are enabled, Google Play, App Store and ad network policies apply. Ads/IAP may be disabled in early versions.",
+    "contact": "Contact",
+    "contactBody": "For privacy questions, contact the developer via the store listing or project repository."
+  },
+  "languages": {
+    "en": "English",
+    "tr": "Türkçe",
+    "es": "Español",
+    "pt": "Português",
+    "de": "Deutsch",
+    "fr": "Français",
+    "ru": "Русский",
+    "id": "Bahasa Indonesia",
+    "ja": "日本語",
+    "ko": "한국어",
+    "hi": "हिन्दी",
+    "ar": "العربية"
+  },
+  "achievements": {
+    "title": "Achievements",
+    "first_win": { "name": "First Win", "desc": "Get 1 correct answer" },
+    "streak_5": { "name": "On a Roll", "desc": "5 correct in a row" },
+    "streak_10": { "name": "On Fire", "desc": "10 correct in a row" },
+    "streak_20": { "name": "Unstoppable", "desc": "20 correct in a row" },
+    "score_10": { "name": "Sharp Eye", "desc": "Score 10 in one game" },
+    "score_50": { "name": "Expert", "desc": "Score 50 in one game" },
+    "score_100": { "name": "Legend", "desc": "Score 100 in one game" },
+    "daily_week": { "name": "Dedicated", "desc": "Complete 7 daily challenges" },
+    "ai_expert": { "name": "AI Expert", "desc": "Complete an Expert mode game" }
+  },
+  "common": {
+    "loading": "Loading...",
+    "shareTitle": "Human or AI?",
+    "copied": "Copied!",
+    "copiedMessage": "Score copied to clipboard.",
+    "errorTitle": "Something went wrong"
+  },
+  "share": {
+    "message": "I scored {{score}} in HUMAN OR AI. Can you beat me?"
+  },
+  "challenge": {
+    "title": "Challenge a friend",
+    "cardSub": "Same 5 questions — share the link!",
+    "loading": "Loading challenge...",
+    "resultTitle": "Challenge complete!",
+    "resultSub": "Share the same link so friends can try the same 5.",
+    "shareCta": "Share challenge",
+    "shareMessage": "I got {{score}}/{{total}} on this Human or AI challenge. Can you beat me? {{url}}",
+    "enterCode": "Have a code?",
+    "enterCodePlaceholder": "Paste challenge code or link",
+    "go": "Play"
+  },
+  "calendar": {
+    "title": "Last 7 days",
+    "today": "Today",
+    "yesterday": "Yesterday"
+  },
+  "videoTour": {
+    "title": "Video tour",
+    "cardSub": "2 short clips — Real or AI?",
+    "resultTitle": "Video tour complete!",
+    "resultSub": "Videos are part of the main game too."
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "home": {
+    "title": "Mensch oder KI?",
+    "subtitle": "Siehst du den Unterschied?",
+    "level": "Level {{level}}",
+    "coins": "{{count}} Münzen",
+    "difficulty": "Schwierigkeit",
+    "playByCategory": "Nach Kategorie spielen",
+    "leaderboard": "Bestenliste",
+    "settings": "Einstellungen",
+    "dailyStreak": "{{count}} Tage Serie 🔥"
+  },
+  "modes": {
+    "classic": { "title": "Klassik", "subtitle": "Bis du einen Fehler machst" },
+    "time_attack": { "title": "Zeitangriff", "subtitle": "60 Sekunden • Höchstpunktzahl" },
+    "daily": { "title": "Tages-Challenge", "subtitle": "10 Bilder • globale Rangliste" },
+    "expert": { "title": "Experte", "subtitle": "Extrem schwere KI-Bilder" },
+    "ai_trick": { "title": "KI-Trick", "subtitle": "Ultra-überzeugende KI" }
+  },
+  "categories": {
+    "faces": "Gesichter",
+    "food": "Essen",
+    "nature": "Natur",
+    "architecture": "Architektur",
+    "animals": "Tiere"
+  },
+  "game": {
+    "loading": "Laden...",
+    "score": "Punkte",
+    "timer": "{{seconds}}s",
+    "imageUnavailable": "Bild nicht verfügbar",
+    "videoComingSoon": "Videomodus demnächst",
+    "real": "ECHT",
+    "ai": "KI",
+    "skip": "Überspringen",
+    "fiftyFifty": "50/50"
+  },
+  "difficulty": {
+    "easy": "Einfach",
+    "medium": "Mittel",
+    "hard": "Schwer"
+  },
+  "result": {
+    "correct": "✓ Richtig",
+    "wrong": "✗ Falsch",
+    "soClose": "So nah! Du hattest {{count}} in Serie 🔥",
+    "itWas": "Es war {{answer}}",
+    "streakBonus": "+{{count}} Serien-Bonus!",
+    "inARow": "{{count}} hintereinander! Weiter so!",
+    "why": "Warum?",
+    "milestone5": "🔥 5 SERIE! Guter Start!",
+    "milestone10": "🔥 10 SERIE! Fantastisch!",
+    "milestone20": "🔥 20 SERIE! Unaufhaltsam!",
+    "milestone25": "🔥 25 SERIE! Legendär!",
+    "viewResults": "Ergebnisse anzeigen",
+    "next": "Weiter"
+  },
+  "gameOver": {
+    "title": "Spiel vorbei",
+    "dailyComplete": "Tages-Challenge geschafft!",
+    "subtitlePoints": "Punkte",
+    "subtitleCorrect": "{{score}}/10 richtig",
+    "bestStreak": "Beste Serie: {{count}} 🔥",
+    "newRecord": "Neuer Rekord! 🏆",
+    "beatBest": "Rekord: {{best}} – noch {{diff}} zum Überbieten!",
+    "hookOneMore": "Noch eine Runde?",
+    "hookBeatBest": "Noch eine? Du kannst deinen Rekord schlagen.",
+    "challengeFriends": "Freunde herausfordern",
+    "shareScore": "Punkte teilen",
+    "watchAdForSkip": "Werbung ansehen → +1 Überspringen im nächsten Spiel",
+    "thanksBonusSkip": "✓ Nächstes Spiel: ein Extra-Überspringen!",
+    "playAgain": "Nochmal spielen",
+    "home": "Start"
+  },
+  "leaderboard": {
+    "title": "Bestenliste",
+    "daily": "Heute",
+    "weekly": "Diese Woche",
+    "all_time": "Alle Zeiten",
+    "empty": "Noch keine Punkte. Sei der Erste!",
+    "back": "← Zurück",
+    "anonymous": "Anonym"
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "back": "Zurück",
+    "sectionAudio": "Audio & Feedback",
+    "sectionLanguage": "Sprache",
+    "sectionAbout": "Über",
+    "sound": "Soundeffekte",
+    "soundDesc": "Spielsounds und Feedback",
+    "haptics": "Vibration",
+    "hapticsDesc": "Vibration bei Berührung",
+    "language": "Sprache",
+    "languageDesc": "App-Sprache",
+    "version": "Mensch oder KI? v1.0.0",
+    "achievements": "Erfolge",
+    "rateApp": "App bewerten",
+    "rateAppUnavailable": "Store konnte nicht geöffnet werden.",
+    "rateAppWeb": "Bewerte uns im App Store oder Play Store.",
+    "privacy": "Datenschutz",
+    "privacyUnavailable": "Link konnte nicht geöffnet werden.",
+    "removeAds": "Werbung entfernen",
+    "removeAdsThankYou": "Danke! Keine Zwischenwerbung mehr.",
+    "supportDevelopment": "Entwicklung unterstützen"
+  },
+  "languages": {
+    "en": "English",
+    "tr": "Türkçe",
+    "es": "Español",
+    "pt": "Português",
+    "de": "Deutsch",
+    "fr": "Français",
+    "ru": "Русский",
+    "id": "Bahasa Indonesia",
+    "ja": "日本語",
+    "ko": "한국어",
+    "hi": "हिन्दी",
+    "ar": "العربية"
+  },
+  "achievements": {
+    "title": "Erfolge",
+    "first_win": { "name": "Erster Sieg", "desc": "1 richtige Antwort" },
+    "streak_5": { "name": "In Fahrt", "desc": "5 richtig hintereinander" },
+    "streak_10": { "name": "On Fire", "desc": "10 richtig hintereinander" },
+    "streak_20": { "name": "Unaufhaltsam", "desc": "20 richtig hintereinander" },
+    "score_10": { "name": "Scharfes Auge", "desc": "10 Punkte in einem Spiel" },
+    "score_50": { "name": "Experte", "desc": "50 Punkte in einem Spiel" },
+    "score_100": { "name": "Legende", "desc": "100 Punkte in einem Spiel" },
+    "daily_week": { "name": "Dediziert", "desc": "7 Tages-Challenges abschließen" },
+    "ai_expert": { "name": "KI-Experte", "desc": "Experten-Modus abschließen" }
+  },
+  "common": {
+    "loading": "Laden...",
+    "shareTitle": "Mensch oder KI?",
+    "copied": "Kopiert!",
+    "copiedMessage": "Punkte in die Zwischenablage kopiert.",
+    "errorTitle": "Etwas ist schiefgelaufen"
+  },
+  "share": {
+    "message": "Ich habe {{score}} Punkte in MENSCH ODER KI erreicht. Schaffst du mehr?"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "home": {
+    "title": "人間？AI？",
+    "subtitle": "見分けられる？",
+    "level": "レベル{{level}}",
+    "coins": "{{count}}コイン",
+    "difficulty": "難易度",
+    "playByCategory": "カテゴリで遊ぶ",
+    "leaderboard": "ランキング",
+    "settings": "設定",
+    "dailyStreak": "{{count}}日連続 🔥"
+  },
+  "modes": {
+    "classic": { "title": "クラシック", "subtitle": "ミスするまで" },
+    "time_attack": { "title": "タイムアタック", "subtitle": "60秒・最高スコア" },
+    "daily": { "title": "デイリーチャレンジ", "subtitle": "10枚・世界ランク" },
+    "expert": { "title": "エキスパート", "subtitle": "激ムズAI画像" },
+    "ai_trick": { "title": "AIトリック", "subtitle": "超リアルなAIのみ" }
+  },
+  "categories": {
+    "faces": "顔",
+    "food": "料理",
+    "nature": "自然",
+    "architecture": "建築",
+    "animals": "動物"
+  },
+  "game": {
+    "loading": "読み込み中...",
+    "score": "スコア",
+    "timer": "{{seconds}}秒",
+    "imageUnavailable": "画像を表示できません",
+    "videoComingSoon": "動画モード近日公開",
+    "real": "実写",
+    "ai": "AI",
+    "skip": "スキップ",
+    "fiftyFifty": "50/50"
+  },
+  "difficulty": {
+    "easy": "かんたん",
+    "medium": "ふつう",
+    "hard": "むずかしい"
+  },
+  "result": {
+    "correct": "✓ 正解",
+    "wrong": "✗ 不正解",
+    "soClose": "惜しい！{{count}}コンボだった🔥",
+    "itWas": "答えは{{answer}}",
+    "streakBonus": "+{{count}}コンボボーナス！",
+    "inARow": "{{count}}連続！その調子！",
+    "why": "なぜ？",
+    "milestone5": "🔥 5コンボ！いいスタート！",
+    "milestone10": "🔥 10コンボ！すごい！",
+    "milestone20": "🔥 20コンボ！止まらない！",
+    "milestone25": "🔥 25コンボ！伝説！",
+    "viewResults": "結果を見る",
+    "next": "次へ"
+  },
+  "gameOver": {
+    "title": "ゲームオーバー",
+    "dailyComplete": "デイリークリア！",
+    "subtitlePoints": "ポイント",
+    "subtitleCorrect": "{{score}}/10正解",
+    "bestStreak": "最高コンボ: {{count}} 🔥",
+    "newRecord": "新記録！🏆",
+    "beatBest": "記録: {{best}} – あと{{diff}}で更新！",
+    "hookOneMore": "もう1プレイ？",
+    "hookBeatBest": "もう1回？記録更新できるかも。",
+    "challengeFriends": "友達に挑戦",
+    "shareScore": "スコアをシェア",
+    "playAgain": "もう一度",
+    "home": "ホーム"
+  },
+  "leaderboard": {
+    "title": "ランキング",
+    "daily": "今日",
+    "weekly": "今週",
+    "all_time": "全期間",
+    "empty": "まだスコアがありません。最初の1人に！",
+    "back": "← 戻る",
+    "anonymous": "匿名"
+  },
+  "settings": {
+    "title": "設定",
+    "back": "戻る",
+    "sectionAudio": "サウンドとフィードバック",
+    "sectionLanguage": "言語",
+    "sectionAbout": "アプリについて",
+    "sound": "効果音",
+    "soundDesc": "ゲームの音",
+    "haptics": "振動",
+    "hapticsDesc": "タップで振動",
+    "language": "言語",
+    "languageDesc": "アプリの言語",
+    "version": "人間？AI？ v1.0.0",
+    "achievements": "実績",
+    "rateApp": "アプリを評価",
+    "rateAppUnavailable": "ストアを開けませんでした。",
+    "rateAppWeb": "App StoreまたはPlay Storeで評価してください。",
+    "privacy": "プライバシー",
+    "privacyUnavailable": "リンクを開けませんでした。"
+  },
+  "languages": {
+    "en": "English",
+    "tr": "Türkçe",
+    "es": "Español",
+    "pt": "Português",
+    "de": "Deutsch",
+    "fr": "Français",
+    "ru": "Русский",
+    "id": "Bahasa Indonesia",
+    "ja": "日本語",
+    "ko": "한국어",
+    "hi": "हिन्दी",
+    "ar": "العربية"
+  },
+  "common": {
+    "loading": "読み込み中...",
+    "shareTitle": "人間？AI？",
+    "copied": "コピーしました！",
+    "copiedMessage": "スコアをクリップボードにコピーしました。",
+    "errorTitle": "エラーが発生しました"
+  },
+  "share": {
+    "message": "人間？AI？で{{score}}ポイント獲得！挑戦してみて！"
+  }
+}

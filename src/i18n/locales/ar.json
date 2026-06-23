@@ -1,0 +1,126 @@
+{
+  "home": {
+    "title": "إنسان أم ذكاء اصطناعي؟",
+    "subtitle": "هل تستطيع التمييز؟",
+    "level": "المستوى {{level}}",
+    "coins": "{{count}} عملات",
+    "difficulty": "الصعوبة",
+    "playByCategory": "اللعب حسب الفئة",
+    "leaderboard": "لوحة المتصدرين",
+    "settings": "الإعدادات",
+    "dailyStreak": "{{count}} أيام متتالية 🔥"
+  },
+  "modes": {
+    "classic": { "title": "كلاسيكي", "subtitle": "حتى تخطئ" },
+    "time_attack": { "title": "ضد الوقت", "subtitle": "٦٠ ثانية • أقصى نقاط" },
+    "daily": { "title": "التحدي اليومي", "subtitle": "١٠ صور • ترتيب عالمي" },
+    "expert": { "title": "خبير", "subtitle": "صور ذكاء اصطناعي صعبة جداً" },
+    "ai_trick": { "title": "خدعة الذكاء الاصطناعي", "subtitle": "ذكاء اصطناعي مقنع جداً" }
+  },
+  "categories": {
+    "faces": "وجوه",
+    "food": "طعام",
+    "nature": "طبيعة",
+    "architecture": "عمارة",
+    "animals": "حيوانات"
+  },
+  "game": {
+    "loading": "جاري التحميل...",
+    "score": "النقاط",
+    "timer": "{{seconds}}ث",
+    "imageUnavailable": "الصورة غير متوفرة",
+    "videoComingSoon": "وضع الفيديو قريباً",
+    "real": "حقيقي",
+    "ai": "ذكاء اصطناعي",
+    "skip": "تخطي",
+    "fiftyFifty": "50/50"
+  },
+  "difficulty": {
+    "easy": "سهل",
+    "medium": "متوسط",
+    "hard": "صعب"
+  },
+  "result": {
+    "correct": "✓ صحيح",
+    "wrong": "✗ خطأ",
+    "soClose": "كدت! كان عندك سلسلة {{count}} 🔥",
+    "itWas": "الجواب كان {{answer}}",
+    "streakBonus": "+{{count}} مكافأة السلسلة!",
+    "inARow": "{{count}} متتالية! واصل!",
+    "why": "لماذا؟",
+    "milestone5": "🔥 ٥ متتالية! بداية رائعة!",
+    "milestone10": "🔥 ١٠ متتالية! رائع!",
+    "milestone20": "🔥 ٢٠ متتالية! لا يُقهر!",
+    "milestone25": "🔥 ٢٥ متتالية! أسطوري!",
+    "viewResults": "عرض النتائج",
+    "next": "التالي"
+  },
+  "gameOver": {
+    "title": "انتهت اللعبة",
+    "dailyComplete": "أتممت التحدي اليومي!",
+    "subtitlePoints": "نقاط",
+    "subtitleCorrect": "{{score}}/١٠ صحيحة",
+    "bestStreak": "أفضل سلسلة: {{count}} 🔥",
+    "newRecord": "رقم قياسي جديد! 🏆",
+    "beatBest": "الرقم: {{best}} – {{diff}} أخرى لتتغلب!",
+    "hookOneMore": "جولة أخرى؟",
+    "hookBeatBest": "جولة أخرى؟ تقدر تتغلب على رقمك.",
+    "challengeFriends": "تحدَّ أصدقاءك",
+    "shareScore": "مشاركة النقاط",
+    "playAgain": "العب مرة أخرى",
+    "home": "الرئيسية"
+  },
+  "leaderboard": {
+    "title": "لوحة المتصدرين",
+    "daily": "اليوم",
+    "weekly": "هذا الأسبوع",
+    "all_time": "كل الوقت",
+    "empty": "لا توجد نقاط بعد. كن الأول!",
+    "back": "← رجوع",
+    "anonymous": "مجهول"
+  },
+  "settings": {
+    "title": "الإعدادات",
+    "back": "رجوع",
+    "sectionAudio": "الصوت والملاحظات",
+    "sectionLanguage": "اللغة",
+    "sectionAbout": "حول",
+    "sound": "المؤثرات الصوتية",
+    "soundDesc": "أصوات اللعبة والملاحظات",
+    "haptics": "الاهتزاز",
+    "hapticsDesc": "اهتزاز عند اللمس",
+    "language": "اللغة",
+    "languageDesc": "لغة التطبيق",
+    "version": "إنسان أم ذكاء اصطناعي؟ v1.0.0",
+    "achievements": "الإنجازات",
+    "rateApp": "قيّم التطبيق",
+    "rateAppUnavailable": "تعذر فتح المتجر.",
+    "rateAppWeb": "قيّمنا من متجر التطبيقات أو بلاي ستور.",
+    "privacy": "سياسة الخصوصية",
+    "privacyUnavailable": "تعذر فتح الرابط."
+  },
+  "languages": {
+    "en": "English",
+    "tr": "Türkçe",
+    "es": "Español",
+    "pt": "Português",
+    "de": "Deutsch",
+    "fr": "Français",
+    "ru": "Русский",
+    "id": "Bahasa Indonesia",
+    "ja": "日本語",
+    "ko": "한국어",
+    "hi": "हिन्दी",
+    "ar": "العربية"
+  },
+  "common": {
+    "loading": "جاري التحميل...",
+    "shareTitle": "إنسان أم ذكاء اصطناعي؟",
+    "copied": "تم النسخ!",
+    "copiedMessage": "تم نسخ النقاط إلى الحافظة.",
+    "errorTitle": "حدث خطأ ما"
+  },
+  "share": {
+    "message": "حصلت على {{score}} نقطة في إنسان أم ذكاء اصطناعي. هل تقدر تتغلب علي؟"
+  }
+}

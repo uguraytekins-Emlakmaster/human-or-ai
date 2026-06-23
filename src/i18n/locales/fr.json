@@ -1,0 +1,126 @@
+{
+  "home": {
+    "title": "Humain ou IA ?",
+    "subtitle": "Tu vois la différence ?",
+    "level": "Niveau {{level}}",
+    "coins": "{{count}} pièces",
+    "difficulty": "Difficulté",
+    "playByCategory": "Jouer par catégorie",
+    "leaderboard": "Classement",
+    "settings": "Paramètres",
+    "dailyStreak": "{{count}} jours d'affilée 🔥"
+  },
+  "modes": {
+    "classic": { "title": "Classique", "subtitle": "Jusqu'à ce que tu te trompes" },
+    "time_attack": { "title": "Course contre la montre", "subtitle": "60 secondes • score max" },
+    "daily": { "title": "Défi du jour", "subtitle": "10 images • classement mondial" },
+    "expert": { "title": "Expert", "subtitle": "Images IA très difficiles" },
+    "ai_trick": { "title": "Piège IA", "subtitle": "IA ultra convaincante" }
+  },
+  "categories": {
+    "faces": "Visages",
+    "food": "Nourriture",
+    "nature": "Nature",
+    "architecture": "Architecture",
+    "animals": "Animaux"
+  },
+  "game": {
+    "loading": "Chargement...",
+    "score": "Score",
+    "timer": "{{seconds}}s",
+    "imageUnavailable": "Image indisponible",
+    "videoComingSoon": "Mode vidéo bientôt disponible",
+    "real": "RÉEL",
+    "ai": "IA",
+    "skip": "Passer",
+    "fiftyFifty": "50/50"
+  },
+  "difficulty": {
+    "easy": "Facile",
+    "medium": "Moyen",
+    "hard": "Difficile"
+  },
+  "result": {
+    "correct": "✓ Correct",
+    "wrong": "✗ Faux",
+    "soClose": "Presque ! Tu avais une série de {{count}} 🔥",
+    "itWas": "C'était {{answer}}",
+    "streakBonus": "+{{count}} bonus de série !",
+    "inARow": "{{count}} d'affilée ! Continue !",
+    "why": "Pourquoi ?",
+    "milestone5": "🔥 5 SÉRIES ! Bon départ !",
+    "milestone10": "🔥 10 SÉRIES ! Incroyable !",
+    "milestone20": "🔥 20 SÉRIES ! Imparable !",
+    "milestone25": "🔥 25 SÉRIES ! Légendaire !",
+    "viewResults": "Voir les résultats",
+    "next": "Suivant"
+  },
+  "gameOver": {
+    "title": "Fin de partie",
+    "dailyComplete": "Défi du jour terminé !",
+    "subtitlePoints": "points",
+    "subtitleCorrect": "{{score}}/10 correctes",
+    "bestStreak": "Meilleure série : {{count}} 🔥",
+    "newRecord": "Nouveau record ! 🏆",
+    "beatBest": "Record : {{best}} – plus {{diff}} pour le battre !",
+    "hookOneMore": "Une autre partie ?",
+    "hookBeatBest": "Une autre ? Tu peux battre ton record.",
+    "challengeFriends": "Défie tes amis",
+    "shareScore": "Partager le score",
+    "playAgain": "Rejouer",
+    "home": "Accueil"
+  },
+  "leaderboard": {
+    "title": "Classement",
+    "daily": "Aujourd'hui",
+    "weekly": "Cette semaine",
+    "all_time": "Tous les temps",
+    "empty": "Pas encore de scores. Sois le premier !",
+    "back": "← Retour",
+    "anonymous": "Anonyme"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "back": "Retour",
+    "sectionAudio": "Audio et retours",
+    "sectionLanguage": "Langue",
+    "sectionAbout": "À propos",
+    "sound": "Effets sonores",
+    "soundDesc": "Sons du jeu",
+    "haptics": "Vibration",
+    "hapticsDesc": "Vibration au toucher",
+    "language": "Langue",
+    "languageDesc": "Langue de l'app",
+    "version": "Humain ou IA ? v1.0.0",
+    "achievements": "Succès",
+    "rateApp": "Noter l'app",
+    "rateAppUnavailable": "Impossible d'ouvrir le store.",
+    "rateAppWeb": "Notez-nous sur l'App Store ou le Play Store.",
+    "privacy": "Confidentialité",
+    "privacyUnavailable": "Impossible d'ouvrir le lien."
+  },
+  "languages": {
+    "en": "English",
+    "tr": "Türkçe",
+    "es": "Español",
+    "pt": "Português",
+    "de": "Deutsch",
+    "fr": "Français",
+    "ru": "Русский",
+    "id": "Bahasa Indonesia",
+    "ja": "日本語",
+    "ko": "한국어",
+    "hi": "हिन्दी",
+    "ar": "العربية"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "shareTitle": "Humain ou IA ?",
+    "copied": "Copié !",
+    "copiedMessage": "Score copié dans le presse-papiers.",
+    "errorTitle": "Une erreur s'est produite"
+  },
+  "share": {
+    "message": "J'ai fait {{score}} points dans HUMAIN OU IA. Tu peux faire mieux ?"
+  }
+}

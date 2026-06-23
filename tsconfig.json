@@ -1,0 +1,18 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "baseUrl": ".",
+    "paths": {
+      "@game/*": ["src/game/*"],
+      "@ui/*": ["src/ui/*"],
+      "@images/*": ["src/images/*"],
+      "@ai/*": ["src/ai/*"],
+      "@audio/*": ["src/audio/*"],
+      "@logic/*": ["src/logic/*"],
+      "@leaderboard/*": ["src/leaderboard/*"],
+      "@analytics/*": ["src/analytics/*"]
+    }
+  },
+  "include": ["**/*.ts", "**/*.tsx"]
+}

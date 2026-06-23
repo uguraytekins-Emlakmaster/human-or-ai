@@ -1,0 +1,126 @@
+{
+  "home": {
+    "title": "इंसान या AI?",
+    "subtitle": "फर्क पहचान सकते हो?",
+    "level": "लेवल {{level}}",
+    "coins": "{{count}} सिक्के",
+    "difficulty": "कठिनाई",
+    "playByCategory": "श्रेणी से खेलें",
+    "leaderboard": "लीडरबोर्ड",
+    "settings": "सेटिंग्स",
+    "dailyStreak": "{{count}} दिन सीरीज़ 🔥"
+  },
+  "modes": {
+    "classic": { "title": "क्लासिक", "subtitle": "गलत होने तक" },
+    "time_attack": { "title": "टाइम अटैक", "subtitle": "60 सेकंड • अधिकतम स्कोर" },
+    "daily": { "title": "रोज़ाना चैलेंज", "subtitle": "10 इमेज • ग्लोबल रैंक" },
+    "expert": { "title": "एक्सपर्ट", "subtitle": "बहुत कठिन AI इमेज" },
+    "ai_trick": { "title": "AI ट्रिक", "subtitle": "अल्ट्रा कन्विंसिंग AI" }
+  },
+  "categories": {
+    "faces": "चेहरे",
+    "food": "खाना",
+    "nature": "प्रकृति",
+    "architecture": "आर्किटेक्चर",
+    "animals": "जानवर"
+  },
+  "game": {
+    "loading": "लोड हो रहा...",
+    "score": "स्कोर",
+    "timer": "{{seconds}}s",
+    "imageUnavailable": "इमेज उपलब्ध नहीं",
+    "videoComingSoon": "वीडियो मोड जल्द आ रहा है",
+    "real": "असली",
+    "ai": "AI",
+    "skip": "छोड़ें",
+    "fiftyFifty": "50/50"
+  },
+  "difficulty": {
+    "easy": "आसान",
+    "medium": "मध्यम",
+    "hard": "कठिन"
+  },
+  "result": {
+    "correct": "✓ सही",
+    "wrong": "✗ गलत",
+    "soClose": "बहुत करीब! {{count}} स्ट्रीक थी 🔥",
+    "itWas": "जवाब था {{answer}}",
+    "streakBonus": "+{{count}} स्ट्रीक बोनस!",
+    "inARow": "{{count}} लगातार! जारी रखो!",
+    "why": "क्यों?",
+    "milestone5": "🔥 5 स्ट्रीक! बढ़िया शुरुआत!",
+    "milestone10": "🔥 10 स्ट्रीक! कमाल!",
+    "milestone20": "🔥 20 स्ट्रीक! अजेय!",
+    "milestone25": "🔥 25 स्ट्रीक! दिग्गज!",
+    "viewResults": "रिज़ल्ट देखें",
+    "next": "आगे"
+  },
+  "gameOver": {
+    "title": "गेम ओवर",
+    "dailyComplete": "रोज़ाना पूरा!",
+    "subtitlePoints": "पॉइंट",
+    "subtitleCorrect": "{{score}}/10 सही",
+    "bestStreak": "बेस्ट स्ट्रीक: {{count}} 🔥",
+    "newRecord": "नया रिकॉर्ड! 🏆",
+    "beatBest": "रिकॉर्ड: {{best}} – {{diff}} और से बीट करो!",
+    "hookOneMore": "एक और राउंड?",
+    "hookBeatBest": "एक और? अपना बेस्ट बीट कर सकते हो।",
+    "challengeFriends": "दोस्तों को चैलेंज करो",
+    "shareScore": "स्कोर शेयर करें",
+    "playAgain": "फिर खेलें",
+    "home": "होम"
+  },
+  "leaderboard": {
+    "title": "लीडरबोर्ड",
+    "daily": "आज",
+    "weekly": "इस हफ्ते",
+    "all_time": "हर समय",
+    "empty": "अभी कोई स्कोर नहीं। पहले बनो!",
+    "back": "← वापस",
+    "anonymous": "अनाम"
+  },
+  "settings": {
+    "title": "सेटिंग्स",
+    "back": "वापस",
+    "sectionAudio": "ऑडियो और फीडबैक",
+    "sectionLanguage": "भाषा",
+    "sectionAbout": "जानकारी",
+    "sound": "साउंड इफेक्ट्स",
+    "soundDesc": "गेम साउंड",
+    "haptics": "वाइब्रेशन",
+    "hapticsDesc": "टैप पर कंपन",
+    "language": "भाषा",
+    "languageDesc": "ऐप भाषा",
+    "version": "इंसान या AI? v1.0.0",
+    "achievements": "उपलब्धियां",
+    "rateApp": "ऐप रेट करें",
+    "rateAppUnavailable": "स्टोर नहीं खोला जा सका।",
+    "rateAppWeb": "App Store या Play Store पर रेट करें।",
+    "privacy": "गोपनीयता",
+    "privacyUnavailable": "लिंक नहीं खोला जा सका।"
+  },
+  "languages": {
+    "en": "English",
+    "tr": "Türkçe",
+    "es": "Español",
+    "pt": "Português",
+    "de": "Deutsch",
+    "fr": "Français",
+    "ru": "Русский",
+    "id": "Bahasa Indonesia",
+    "ja": "日本語",
+    "ko": "한국어",
+    "hi": "हिन्दी",
+    "ar": "العربية"
+  },
+  "common": {
+    "loading": "लोड हो रहा...",
+    "shareTitle": "इंसान या AI?",
+    "copied": "कॉपी हुआ!",
+    "copiedMessage": "स्कोर क्लिपबोर्ड में कॉपी हुआ।",
+    "errorTitle": "कुछ गड़बड़ हो गई"
+  },
+  "share": {
+    "message": "मैंने इंसान या AI? में {{score}} स्कोर किया। तुम हरा सकते हो?"
+  }
+}
