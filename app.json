@@ -37,6 +37,12 @@
           "color": "#6366f1"
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "43f6f852-a937-41da-b7a3-a3cbf6b19c6e"
+      }
+    },
+    "owner": "uguraytekins"
   }
 }
