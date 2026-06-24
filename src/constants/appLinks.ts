@@ -12,7 +12,8 @@ export const APP_STORE_ID = '';
 export const GITHUB_PAGES_USERNAME = 'uguraytekins-Emlakmaster';
 export const GITHUB_PAGES_REPO = 'human-or-ai';
 
-export const PRIVACY_POLICY_URL = `https://${GITHUB_PAGES_USERNAME}.github.io/${GITHUB_PAGES_REPO}/privacy.html`;
+/** GitHub Pages kullanıcı adı URL'de küçük harfe dönüşür */
+export const PRIVACY_POLICY_URL = `https://${GITHUB_PAGES_USERNAME.toLowerCase()}.github.io/${GITHUB_PAGES_REPO}/privacy.html`;
 
 /**
  * Meydan okuma paylaşım tabanı. Alan adınız yoksa boş bırakın; paylaşımda sadece kod kullanılır.

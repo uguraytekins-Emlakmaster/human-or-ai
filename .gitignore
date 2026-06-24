@@ -17,6 +17,9 @@ expo-env.d.ts
 android/
 ios/
 
+# Release builds (indirilen AAB/APK)
+build/
+
 # Metro
 .metro-health-check*
 

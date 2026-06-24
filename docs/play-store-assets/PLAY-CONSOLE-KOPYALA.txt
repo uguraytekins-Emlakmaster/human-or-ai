@@ -1,0 +1,38 @@
+=== GOOGLE PLAY CONSOLE – KOPYALA YAPIŞTIR ===
+
+Paket adı: com.humanorai.game
+Uygulama adı: Human or AI?
+
+--- Gizlilik politikası URL ---
+https://uguraytekins-emlakmaster.github.io/human-or-ai/privacy.html
+
+--- Kısa açıklama (80 karakter) ---
+Gerçek mü? Yapay zeka mı? Görsel, ses ve videoyu tahmin et; skorunu yükselt!
+
+--- Tam açıklama ---
+(full-description.txt dosyasının tamamını yapıştırın)
+
+--- Kategori ---
+Oyun → Bilgi yarışması / Trivia
+
+--- AAB dosyası (yükleyin) ---
+build/human-or-ai-v1.0.0-vc2.aab
+(veya expo.dev → Yapılar → production → İndir)
+
+--- Görseller (docs/play-store-assets/) ---
+icon-512.png              → Uygulama simgesi
+feature-graphic-1024x500.png → Öne çıkan grafik
+screenshot-1-home.png     → Ekran görüntüsü 1
+screenshot-2-game.png     → Ekran görüntüsü 2
+
+--- Sürüm notu ---
+İlk sürüm – Human or AI? oyunu
+
+--- Veri güvenliği (Data safety) ---
+• Hesap oluşturma: Hayır
+• Veri toplanmıyor (veya yalnızca cihazda saklanan skor/ayar)
+• Üçüncü taraf paylaşımı: Hayır
+• Reklam: Hayır (IS_MONETIZATION_LIVE=false)
+
+--- İçerik derecelendirmesi ---
+Anket: şiddet/yetişkin içerik yok → genelde PEGI 3 / Everyone
