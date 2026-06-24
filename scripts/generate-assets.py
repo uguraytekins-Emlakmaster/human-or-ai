@@ -10,6 +10,7 @@ except ImportError:
 
 ROOT = Path(__file__).resolve().parent.parent
 ASSETS = ROOT / "assets"
+STORE = ROOT / "docs" / "play-store-assets"
 
 BG = (10, 10, 15)
 PRIMARY = (99, 102, 241)
@@ -79,12 +80,53 @@ def draw_splash() -> Image.Image:
     return img
 
 
+def draw_feature_graphic() -> Image.Image:
+    w, h = 1024, 500
+    img = Image.new("RGBA", (w, h), BG + (255,))
+    icon = draw_icon(220)
+    img.paste(icon, (60, (h - 220) // 2), icon)
+    d = ImageDraw.Draw(img)
+    title_font = load_font(56)
+    sub_font = load_font(28)
+    d.text((320, h // 2 - 40), "Human or AI?", fill=TEXT + (255,), font=title_font)
+    d.text((320, h // 2 + 20), "Gerçek mi, yapay zeka mı?", fill=(161, 161, 170, 255), font=sub_font)
+    return img
+
+
+def draw_phone_screenshot(label: str, subtitle: str) -> Image.Image:
+    """Play Store telefon ekran görüntüsü 1080x1920."""
+    w, h = 1080, 1920
+    img = Image.new("RGBA", (w, h), BG + (255,))
+    d = ImageDraw.Draw(img)
+    icon = draw_icon(280)
+    img.paste(icon, ((w - 280) // 2, 280), icon)
+    d.text((w // 2, 640), "Human or AI?", fill=TEXT + (255,), font=load_font(64), anchor="mm")
+    d.text((w // 2, 720), label, fill=PRIMARY + (255,), font=load_font(44), anchor="mm")
+    d.text((w // 2, 800), subtitle, fill=(161, 161, 170, 255), font=load_font(32), anchor="mm")
+    btn_y = 920
+    btn_h = 100
+    d.rounded_rectangle((80, btn_y, w // 2 - 20, btn_y + btn_h), radius=20, fill=REAL + (255,))
+    d.rounded_rectangle((w // 2 + 20, btn_y, w - 80, btn_y + btn_h), radius=20, fill=AI + (255,))
+    d.text((w // 4 + 10, btn_y + btn_h // 2), "GERÇEK", fill=TEXT + (255,), font=load_font(36), anchor="mm")
+    d.text((3 * w // 4 - 10, btn_y + btn_h // 2), "YAPAY", fill=TEXT + (255,), font=load_font(36), anchor="mm")
+    return img
+
+
 def main():
     ASSETS.mkdir(parents=True, exist_ok=True)
+    STORE.mkdir(parents=True, exist_ok=True)
     draw_icon(1024).save(ASSETS / "icon.png", "PNG", optimize=True)
     draw_icon(1024).save(ASSETS / "adaptive-icon.png", "PNG", optimize=True)
     draw_splash().save(ASSETS / "splash.png", "PNG", optimize=True)
-    print("Generated:", ASSETS / "icon.png", ASSETS / "adaptive-icon.png", ASSETS / "splash.png")
+    draw_icon(512).save(STORE / "icon-512.png", "PNG", optimize=True)
+    draw_feature_graphic().save(STORE / "feature-graphic-1024x500.png", "PNG", optimize=True)
+    draw_phone_screenshot("Klasik mod", "Gerçek mi, AI mı?").save(
+        STORE / "screenshot-1-home.png", "PNG", optimize=True
+    )
+    draw_phone_screenshot("Skor: 12  •  Seri: 5", "Doğru tahmin!").save(
+        STORE / "screenshot-2-game.png", "PNG", optimize=True
+    )
+    print("Generated app assets + docs/play-store-assets/")
 
 
 if __name__ == "__main__":
